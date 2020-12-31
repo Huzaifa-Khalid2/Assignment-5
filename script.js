@@ -1,6 +1,6 @@
 let d = 'd = five centimeters'
 side1 = 'd = 5cm'
-alert(d)
+alert(side1)
 let formula = 'a = π x d'
 formula = 'a = π x d'
 alert(formula)
