@@ -1,4 +1,4 @@
-let d = 'five centimeters'
+let side1 = 'five centimeters'
 side1 = 'd = 5cm'
 alert(side1)
 let formula = 'a = π x d'
